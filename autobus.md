@@ -1,7 +1,7 @@
 # Autobus
 
 Chvíli krokem, chvíli skokem,
-pojedeme vlakem.
+pojedeme vláčkem.
 
 Řidič mačká houkačku,
 řeže každou zatáčku.
